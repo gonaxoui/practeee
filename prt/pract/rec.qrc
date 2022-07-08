@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Frame 1.png</file>
+        <file>img/Frame 7.png</file>
+        <file>img/горина.png</file>
+        <file>img/писаревск.png</file>
+        <file>img/савв.png</file>
+        <file>img/free-icon-reception-bell-7507840 (1).png</file>
+        <file>img/ввод данных.png</file>
+        <file>img/выход.png</file>
+        <file>img/главное окно.png</file>
+        <file>img/добавление еще.png</file>
+        <file>img/добавление записи.png</file>
+        <file>img/окно с таблицей.png</file>
+        <file>img/поиск ввод.png</file>
+        <file>img/поиск очистка.png</file>
+        <file>img/разрабы.png</file>
+        <file>img/редактирование данных.png</file>
+        <file>img/удаление.png</file>
+        <file>img/удалилось.png</file>
+    </qresource>
+</RCC>
